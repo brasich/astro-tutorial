@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My Third Blog Post'
 pubDate: 2023-08-15
 description: 'This is the third post on my new Astro blog.'
@@ -9,4 +10,4 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-# My Third Blog Post
+Content 3
